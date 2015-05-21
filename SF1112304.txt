@@ -1,0 +1,3120 @@
+C:\Users\Julian.SUNFLYKARAOKE\Desktop\xmlCheck\SF1112304 - Madonna Feat. Nicki Minaj and MIA - Give Me All Your Lovin'.xml
+
+
+********************TITLE********************
+PageType: Title
+StartTime: 0.46 
+EndTime: 6.58 
+
+
+********************INSTRUCTION********************
+PageType: Instruction
+StartTime: 6.58 
+EndTime: 9.13 
+ 
+Voice: 0
+Line: FEMALE 1
+Voice: 1
+Line: FEMALE 2 & 3
+Voice: 2
+Line: FEMALE 3
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 9.13 
+EndTime: 16.21 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[10.21] L-U-V [11.71]
+[12.21] Madonna [12.75]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[13.13] Y-O-U [15.08]
+[15.42] You [15.63]
+[15.63] wanna [16.12]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[10.21] L-U-V [11.71]
+[12.21] Madonna [12.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[13.13] Y-O-U [15.08]
+[15.42] You [15.63]
+[15.63] wanna [16.12]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 16.21 
+EndTime: 22.71 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I see you coming
+
+[16.83] I [16.88]
+[17.0] see [17.17]
+[17.17] you [17.33]
+[17.33] coming [17.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and I don't wanna
+
+[17.71] and [17.88]
+[17.92] I [17.96]
+[18.13] don't [18.5]
+[18.5] wanna [18.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: know your name
+
+[18.96] know [19.29]
+[19.33] your [19.67]
+[19.67] name [20.04]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[20.04] L-U-V [21.71]
+[22.08] Madonna [22.67]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I see you coming
+
+[16.83] I [16.88]
+[17.0] see [17.17]
+[17.17] you [17.33]
+[17.33] coming [17.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and I don't wanna
+
+[17.71] and [17.88]
+[17.92] I [17.96]
+[18.13] don't [18.5]
+[18.5] wanna [18.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: know your name
+
+[18.96] know [19.29]
+[19.33] your [19.67]
+[19.67] name [20.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[20.04] L-U-V [21.71]
+[22.08] Madonna [22.67]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 22.71 
+EndTime: 29.46 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I see you coming
+
+[23.29] I [23.33]
+[23.46] see [23.67]
+[23.67] you [23.88]
+[23.88] coming [24.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and you're gonna
+
+[24.29] and [24.46]
+[24.5] you're [24.75]
+[24.75] gonna [25.04]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: have to change
+
+[25.13] have [25.38]
+[25.38] to [25.54]
+[25.58] change [25.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: the game
+
+[25.96] the [26.17]
+[26.21] game [26.58]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[26.63] Y-O-U [28.33]
+[28.67] You [28.88]
+[28.88] wanna [29.38]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I see you coming
+
+[23.29] I [23.33]
+[23.46] see [23.67]
+[23.67] you [23.88]
+[23.88] coming [24.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and you're gonna
+
+[24.29] and [24.46]
+[24.5] you're [24.75]
+[24.75] gonna [25.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: have to change
+
+[25.13] have [25.38]
+[25.38] to [25.54]
+[25.58] change [25.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: the game
+
+[25.96] the [26.17]
+[26.21] game [26.58]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[26.63] Y-O-U [28.33]
+[28.67] You [28.88]
+[28.88] wanna [29.38]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 29.46 
+EndTime: 35.83 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Would you like to try?
+
+[29.92] Would [30.29]
+[30.33] you [30.5]
+[30.5] like [30.83]
+[30.83] to [30.96]
+[30.96] try? [31.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me a reason why
+
+[31.67] Give [31.92]
+[31.92] me [32.12]
+[32.12] a [32.25]
+[32.29] reason [32.79]
+[32.79] why [33.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all that you got
+
+[33.29] Give [33.5]
+[33.54] me [33.79]
+[33.83] all [34.08]
+[34.13] that [34.29]
+[34.29] you [34.46]
+[34.5] got [35.46]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Would you like to try?
+
+[29.92] Would [30.29]
+[30.33] you [30.5]
+[30.5] like [30.83]
+[30.83] to [30.96]
+[30.96] try? [31.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me a reason why
+
+[31.67] Give [31.92]
+[31.92] me [32.12]
+[32.12] a [32.25]
+[32.29] reason [32.79]
+[32.79] why [33.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all that you got
+
+[33.29] Give [33.5]
+[33.54] me [33.79]
+[33.83] all [34.08]
+[34.13] that [34.29]
+[34.29] you [34.46]
+[34.5] got [35.46]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 35.83 
+EndTime: 43.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Maybe you'll do fine
+
+[36.67] Maybe [37.08]
+[37.13] you'll [37.38]
+[37.38] do [37.71]
+[37.75] fine [38.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: as long as you don't lie
+
+[38.25] as [38.42]
+[38.42] long [38.63]
+[38.63] as [38.75]
+[38.79] you [38.96]
+[39.0] don't [39.33]
+[39.42] lie [39.79]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: to me and
+
+[39.83] to [40.04]
+[40.04] me [40.33]
+[40.38] and [40.67]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: pretend to be
+
+[40.67] pretend [41.25]
+[41.29] to [41.54]
+[41.58] be [41.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: what you're not
+
+[41.96] what [42.25]
+[42.33] you're [42.58]
+[42.58] not [43.0]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Maybe you'll do fine
+
+[36.67] Maybe [37.08]
+[37.13] you'll [37.38]
+[37.38] do [37.71]
+[37.75] fine [38.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: as long as you don't lie
+
+[38.25] as [38.42]
+[38.42] long [38.63]
+[38.63] as [38.75]
+[38.79] you [38.96]
+[39.0] don't [39.33]
+[39.42] lie [39.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: to me and
+
+[39.83] to [40.04]
+[40.04] me [40.33]
+[40.38] and [40.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: pretend to be
+
+[40.67] pretend [41.25]
+[41.29] to [41.54]
+[41.58] be [41.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: what you're not
+
+[41.96] what [42.25]
+[42.33] you're [42.58]
+[42.58] not [43.0]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 43.13 
+EndTime: 48.88 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Do we play the
+
+[43.42] Do [43.67]
+[43.67] we [43.79]
+[43.83] play [44.04]
+[44.08] the [44.46]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[44.5] stupid [45.17]
+[45.21] game [45.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[45.67] 'cause [45.83]
+[45.83] I'm [46.04]
+[46.08] a [46.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[46.29] different [47.0]
+[47.04] kind [47.42]
+[47.46] of [47.67]
+[47.71] girl? [48.71]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Do we play the
+
+[43.42] Do [43.67]
+[43.67] we [43.79]
+[43.83] play [44.04]
+[44.08] the [44.46]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[44.5] stupid [45.17]
+[45.21] game [45.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[45.67] 'cause [45.83]
+[45.83] I'm [46.04]
+[46.08] a [46.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[46.29] different [47.0]
+[47.04] kind [47.42]
+[47.46] of [47.67]
+[47.71] girl? [48.71]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 48.88 
+EndTime: 55.5 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[49.96] Every [50.33]
+[50.38] record [51.08]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[51.17] sounds [51.54]
+[51.63] the [51.88]
+[51.92] same [52.29]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[52.33] you've [52.5]
+[52.54] got [52.71]
+[52.71] to [52.88]
+[52.92] step [53.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[53.29] into [53.83]
+[53.92] my [54.29]
+[54.33] world [55.29]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[49.96] Every [50.33]
+[50.38] record [51.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[51.17] sounds [51.54]
+[51.63] the [51.88]
+[51.92] same [52.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[52.33] you've [52.5]
+[52.54] got [52.71]
+[52.71] to [52.88]
+[52.92] step [53.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[53.29] into [53.83]
+[53.92] my [54.29]
+[54.33] world [55.29]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 55.5 
+EndTime: 62.08 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[56.17] Give [56.42]
+[56.42] me [56.58]
+[56.63] all [56.79]
+[56.79] your [57.0]
+[57.04] love [57.42]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[57.46] and [57.83]
+[57.83] give [58.04]
+[58.04] me [58.25]
+[58.25] your [58.46]
+[58.46] love [59.04]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[59.46] Give [59.71]
+[59.71] me [59.92]
+[59.92] all [60.08]
+[60.13] your [60.33]
+[60.33] love [60.67]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[60.71] today [61.83]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[56.17] Give [56.42]
+[56.42] me [56.58]
+[56.63] all [56.79]
+[56.79] your [57.0]
+[57.04] love [57.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[57.46] and [57.83]
+[57.83] give [58.04]
+[58.04] me [58.25]
+[58.25] your [58.46]
+[58.46] love [59.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[59.46] Give [59.71]
+[59.71] me [59.92]
+[59.92] all [60.08]
+[60.13] your [60.33]
+[60.33] love [60.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[60.71] today [61.83]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 62.08 
+EndTime: 69.58 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[62.79] Give [63.0]
+[63.0] me [63.21]
+[63.21] all [63.38]
+[63.42] your [63.63]
+[63.63] love [64.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[64.04] and [64.42]
+[64.46] give [64.67]
+[64.67] me [64.92]
+[64.92] your [65.12]
+[65.12] love [65.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[65.88] let's [66.17]
+[66.17] forget [66.42]
+[66.42] about [66.75]
+[66.75] time [67.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[67.29] and [67.67]
+[67.71] dance [68.13]
+[68.13] our [68.5]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[68.54] lives [68.88]
+[68.92] away [69.5]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[62.79] Give [63.0]
+[63.0] me [63.21]
+[63.21] all [63.38]
+[63.42] your [63.63]
+[63.63] love [64.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[64.04] and [64.42]
+[64.46] give [64.67]
+[64.67] me [64.92]
+[64.92] your [65.12]
+[65.12] love [65.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[65.88] let's [66.17]
+[66.17] forget [66.42]
+[66.42] about [66.75]
+[66.75] time [67.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[67.29] and [67.67]
+[67.71] dance [68.13]
+[68.13] our [68.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[68.54] lives [68.88]
+[68.92] away [69.5]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 69.58 
+EndTime: 75.88 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[69.71] L-U-V [71.38]
+[71.79] Madonna [72.33]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[72.75] Y-O-U [74.71]
+[75.04] You [75.25]
+[75.29] wanna [75.79]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[69.71] L-U-V [71.38]
+[71.79] Madonna [72.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[72.75] Y-O-U [74.71]
+[75.04] You [75.25]
+[75.29] wanna [75.79]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 75.88 
+EndTime: 82.46 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Keep trying
+
+[76.42] Keep [76.63]
+[76.63] trying [76.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: don't give up
+
+[76.96] don't [77.21]
+[77.25] give [77.42]
+[77.42] up [77.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: it's if you want it
+
+[77.67] it's [77.88]
+[77.88] if [78.04]
+[78.08] you [78.25]
+[78.25] want [78.5]
+[78.5] it [78.67]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: bad enough
+
+[78.67] bad [79.08]
+[79.17] enough [79.46]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[79.5] L-U-V [81.25]
+[81.67] Madonna [82.33]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Keep trying
+
+[76.42] Keep [76.63]
+[76.63] trying [76.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: don't give up
+
+[76.96] don't [77.21]
+[77.25] give [77.42]
+[77.42] up [77.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: it's if you want it
+
+[77.67] it's [77.88]
+[77.88] if [78.04]
+[78.08] you [78.25]
+[78.25] want [78.5]
+[78.5] it [78.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: bad enough
+
+[78.67] bad [79.08]
+[79.17] enough [79.46]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[79.5] L-U-V [81.25]
+[81.67] Madonna [82.33]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 82.46 
+EndTime: 89.17 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: It's right in front of you
+
+[82.92] It's [83.13]
+[83.13] right [83.29]
+[83.29] in [83.5]
+[83.5] front [83.71]
+[83.71] of [83.92]
+[83.92] you [84.08]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: now tell me what
+
+[84.13] now [84.33]
+[84.33] tell [84.54]
+[84.54] me [84.75]
+[84.75] what [84.96]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you're thinking of
+
+[84.96] you're [85.21]
+[85.21] thinking [85.79]
+[85.83] of [86.17]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[86.25] Y-O-U [87.92]
+[88.29] You [88.5]
+[88.5] wanna [89.08]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: It's right in front of you
+
+[82.92] It's [83.13]
+[83.13] right [83.29]
+[83.29] in [83.5]
+[83.5] front [83.71]
+[83.71] of [83.92]
+[83.92] you [84.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: now tell me what
+
+[84.13] now [84.33]
+[84.33] tell [84.54]
+[84.54] me [84.75]
+[84.75] what [84.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you're thinking of
+
+[84.96] you're [85.21]
+[85.21] thinking [85.79]
+[85.83] of [86.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[86.25] Y-O-U [87.92]
+[88.29] You [88.5]
+[88.5] wanna [89.08]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 89.17 
+EndTime: 95.96 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: In another place
+
+[89.58] In [89.96]
+[90.08] another [90.71]
+[90.79] place [91.42]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: at a different time
+
+[91.42] at [91.67]
+[91.67] a [91.88]
+[91.88] different [92.38]
+[92.46] time [93.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you can be
+
+[93.04] you [93.25]
+[93.25] can [93.42]
+[93.5] be [93.71]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: my lucky star
+
+[93.71] my [94.0]
+[94.13] lucky [94.71]
+[94.79] star [95.75]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: In another place
+
+[89.58] In [89.96]
+[90.08] another [90.71]
+[90.79] place [91.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: at a different time
+
+[91.42] at [91.67]
+[91.67] a [91.88]
+[91.88] different [92.38]
+[92.46] time [93.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you can be
+
+[93.04] you [93.25]
+[93.25] can [93.42]
+[93.5] be [93.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: my lucky star
+
+[93.71] my [94.0]
+[94.13] lucky [94.71]
+[94.79] star [95.75]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 95.96 
+EndTime: 102.75 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: We can drink
+
+[96.33] We [96.58]
+[96.58] can [96.79]
+[96.79] drink [97.13]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: some wine
+
+[97.13] some [97.42]
+[97.46] wine [98.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Burgundy is fine
+
+[98.0] Burgundy [98.67]
+[98.75] is [99.08]
+[99.13] fine [99.96]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's drink the bottle
+
+[100.38] let's [100.54]
+[100.58] drink [100.79]
+[100.79] the [100.96]
+[101.0] bottle [101.33]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: every drop
+
+[101.38] every [101.96]
+[102.08] drop [102.67]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: We can drink
+
+[96.33] We [96.58]
+[96.58] can [96.79]
+[96.79] drink [97.13]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: some wine
+
+[97.13] some [97.42]
+[97.46] wine [98.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Burgundy is fine
+
+[98.0] Burgundy [98.67]
+[98.75] is [99.08]
+[99.13] fine [99.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's drink the bottle
+
+[100.38] let's [100.54]
+[100.58] drink [100.79]
+[100.79] the [100.96]
+[101.0] bottle [101.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: every drop
+
+[101.38] every [101.96]
+[102.08] drop [102.67]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 102.75 
+EndTime: 108.46 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Do we play the
+
+[103.0] Do [103.25]
+[103.25] we [103.42]
+[103.42] play [103.75]
+[103.79] the [104.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[104.21] stupid [104.75]
+[104.83] game [105.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[105.29] 'cause [105.46]
+[105.5] I'm [105.75]
+[105.79] a [105.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[105.96] different [106.58]
+[106.67] kind [107.04]
+[107.13] of [107.33]
+[107.38] girl? [108.33]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Do we play the
+
+[103.0] Do [103.25]
+[103.25] we [103.42]
+[103.42] play [103.75]
+[103.79] the [104.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[104.21] stupid [104.75]
+[104.83] game [105.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[105.29] 'cause [105.46]
+[105.5] I'm [105.75]
+[105.79] a [105.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[105.96] different [106.58]
+[106.67] kind [107.04]
+[107.13] of [107.33]
+[107.38] girl? [108.33]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 108.46 
+EndTime: 115.04 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[109.58] Every [109.96]
+[110.0] record [110.71]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[110.83] sounds [111.17]
+[111.25] the [111.5]
+[111.54] same [111.96]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[111.96] you've [112.17]
+[112.17] got [112.33]
+[112.38] to [112.54]
+[112.54] step [112.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[112.92] into [113.46]
+[113.58] my [113.92]
+[113.96] world [114.79]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[109.58] Every [109.96]
+[110.0] record [110.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[110.83] sounds [111.17]
+[111.25] the [111.5]
+[111.54] same [111.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[111.96] you've [112.17]
+[112.17] got [112.33]
+[112.38] to [112.54]
+[112.54] step [112.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[112.92] into [113.46]
+[113.58] my [113.92]
+[113.96] world [114.79]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 115.04 
+EndTime: 121.71 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[115.75] Give [116.0]
+[116.0] me [116.21]
+[116.21] all [116.38]
+[116.38] your [116.67]
+[116.67] love [117.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[117.08] and [117.42]
+[117.5] give [117.75]
+[117.75] me [117.92]
+[117.92] your [118.17]
+[118.17] love [118.67]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[119.13] Give [119.33]
+[119.38] me [119.54]
+[119.54] all [119.71]
+[119.75] your [119.96]
+[119.96] love [120.33]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[120.38] today [121.5]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[115.75] Give [116.0]
+[116.0] me [116.21]
+[116.21] all [116.38]
+[116.38] your [116.67]
+[116.67] love [117.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[117.08] and [117.42]
+[117.5] give [117.75]
+[117.75] me [117.92]
+[117.92] your [118.17]
+[118.17] love [118.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[119.13] Give [119.33]
+[119.38] me [119.54]
+[119.54] all [119.71]
+[119.75] your [119.96]
+[119.96] love [120.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[120.38] today [121.5]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 121.71 
+EndTime: 129.33 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[122.42] Give [122.71]
+[122.71] me [122.88]
+[122.88] all [123.04]
+[123.08] your [123.25]
+[123.25] love [123.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[123.67] and [124.04]
+[124.08] give [124.29]
+[124.33] me [124.54]
+[124.54] your [124.75]
+[124.75] love [125.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[125.5] let's [125.79]
+[125.79] forget [126.17]
+[126.21] about [126.5]
+[126.54] time [127.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[127.04] and [127.33]
+[127.42] dance [127.79]
+[127.83] our [128.12]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[128.12] lives [128.58]
+[128.58] away [129.25]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[122.42] Give [122.71]
+[122.71] me [122.88]
+[122.88] all [123.04]
+[123.08] your [123.25]
+[123.25] love [123.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[123.67] and [124.04]
+[124.08] give [124.29]
+[124.33] me [124.54]
+[124.54] your [124.75]
+[124.75] love [125.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[125.5] let's [125.79]
+[125.79] forget [126.17]
+[126.21] about [126.5]
+[126.54] time [127.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[127.04] and [127.33]
+[127.42] dance [127.79]
+[127.83] our [128.12]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[128.12] lives [128.58]
+[128.58] away [129.25]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 129.33 
+EndTime: 132.54 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Give me all your love boy
+
+[130.0] Give [130.17]
+[130.17] me [130.33]
+[130.33] all [130.46]
+[130.46] your [130.58]
+[130.62] love [130.75]
+[130.75] boy [130.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you can be my boy
+
+[130.92] you [131.08]
+[131.13] can [131.21]
+[131.21] be [131.38]
+[131.38] my [131.46]
+[131.5] boy [131.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you can be my boy toy
+
+[131.63] you [131.75]
+[131.75] can [131.92]
+[131.92] be [132.08]
+[132.08] my [132.21]
+[132.21] boy [132.33]
+[132.33] toy [132.46]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Give me all your love boy
+
+[130.0] Give [130.17]
+[130.17] me [130.33]
+[130.33] all [130.46]
+[130.46] your [130.58]
+[130.62] love [130.75]
+[130.75] boy [130.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you can be my boy
+
+[130.92] you [131.08]
+[131.13] can [131.21]
+[131.21] be [131.38]
+[131.38] my [131.46]
+[131.5] boy [131.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you can be my boy toy
+
+[131.63] you [131.75]
+[131.75] can [131.92]
+[131.92] be [132.08]
+[132.08] my [132.21]
+[132.21] boy [132.33]
+[132.33] toy [132.46]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 132.54 
+EndTime: 135.79 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: In the nick of time
+
+[132.58] In [132.75]
+[132.75] the [132.92]
+[132.92] nick [133.08]
+[133.08] of [133.17]
+[133.21] time [133.38]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I can say a sicker rhyme
+
+[133.38] I [133.42]
+[133.5] can [133.67]
+[133.67] say [133.79]
+[133.79] a [133.92]
+[133.92] sicker [134.08]
+[134.08] rhyme [134.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: 'cause it's time for
+
+[134.21] 'cause [134.38]
+[134.38] it's [134.46]
+[134.46] time [134.58]
+[134.58] for [134.71]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: change like a nickel
+
+[134.71] change [134.92]
+[134.92] like [135.04]
+[135.04] a [135.13]
+[135.17] nickel [135.33]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: or a dime
+
+[135.33] or [135.42]
+[135.42] a [135.54]
+[135.54] dime [135.71]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: In the nick of time
+
+[132.58] In [132.75]
+[132.75] the [132.92]
+[132.92] nick [133.08]
+[133.08] of [133.17]
+[133.21] time [133.38]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I can say a sicker rhyme
+
+[133.38] I [133.42]
+[133.5] can [133.67]
+[133.67] say [133.79]
+[133.79] a [133.92]
+[133.92] sicker [134.08]
+[134.08] rhyme [134.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: 'cause it's time for
+
+[134.21] 'cause [134.38]
+[134.38] it's [134.46]
+[134.46] time [134.58]
+[134.58] for [134.71]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: change like a nickel
+
+[134.71] change [134.92]
+[134.92] like [135.04]
+[135.04] a [135.13]
+[135.17] nickel [135.33]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: or a dime
+
+[135.33] or [135.42]
+[135.42] a [135.54]
+[135.54] dime [135.71]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 135.79 
+EndTime: 138.71 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Uh I'm roman
+
+[135.92] Uh [136.08]
+[136.13] I'm [136.46]
+[136.5] roman [137.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm a barbarian
+
+[137.33] I'm [137.5]
+[137.5] a [137.58]
+[137.63] barbarian [138.04]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm conan
+
+[138.08] I'm [138.25]
+[138.25] conan [138.63]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Uh I'm roman
+
+[135.92] Uh [136.08]
+[136.13] I'm [136.46]
+[136.5] roman [137.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm a barbarian
+
+[137.33] I'm [137.5]
+[137.5] a [137.58]
+[137.63] barbarian [138.04]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm conan
+
+[138.08] I'm [138.25]
+[138.25] conan [138.63]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 138.71 
+EndTime: 142.33 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: You were
+
+[138.92] You [139.08]
+[139.08] were [139.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: sleeping on me
+
+[139.25] sleeping [139.42]
+[139.42] on [139.54]
+[139.54] me [139.79]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you were dosin'
+
+[139.79] you [139.96]
+[139.96] were [140.13]
+[140.13] dosin' [140.46]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: now move
+
+[140.46] now [140.71]
+[140.71] move [141.25]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm goin' in
+
+[141.38] I'm [141.54]
+[141.54] goin' [141.88]
+[141.92] in [142.25]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: You were
+
+[138.92] You [139.08]
+[139.08] were [139.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: sleeping on me
+
+[139.25] sleeping [139.42]
+[139.42] on [139.54]
+[139.54] me [139.79]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: you were dosin'
+
+[139.79] you [139.96]
+[139.96] were [140.13]
+[140.13] dosin' [140.46]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: now move
+
+[140.46] now [140.71]
+[140.71] move [141.25]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm goin' in
+
+[141.38] I'm [141.54]
+[141.54] goin' [141.88]
+[141.92] in [142.25]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 142.33 
+EndTime: 149.0 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You have all the L-U-V
+
+[142.96] You [143.13]
+[143.13] have [143.33]
+[143.33] all [143.54]
+[143.58] the [143.96]
+[144.0] L-U-V [145.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I gave you everything
+
+[145.13] I [145.17]
+[145.54] gave [145.92]
+[145.92] you [146.17]
+[146.25] everything [146.67]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you need
+
+[146.75] you [147.08]
+[147.17] need [147.92]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: (now move!)
+
+[148.0] (now [148.17]
+[148.17] move!) [148.83]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: You have all the L-U-V
+
+[142.96] You [143.13]
+[143.13] have [143.33]
+[143.33] all [143.54]
+[143.58] the [143.96]
+[144.0] L-U-V [145.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: I gave you everything
+
+[145.13] I [145.17]
+[145.54] gave [145.92]
+[145.92] you [146.17]
+[146.25] everything [146.67]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you need
+
+[146.75] you [147.08]
+[147.17] need [147.92]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: (now move!)
+
+[148.0] (now [148.17]
+[148.17] move!) [148.83]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 149.0 
+EndTime: 155.42 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Now it's up to Y-O-U
+
+[149.33] Now [149.58]
+[149.63] it's [149.83]
+[149.83] up [150.17]
+[150.21] to [150.54]
+[150.63] Y-O-U [151.5]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Are you the one
+
+[151.75] Are [151.96]
+[151.96] you [152.25]
+[152.25] the [152.38]
+[152.38] one [152.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: shall we proceed?
+
+[152.71] shall [153.0]
+[153.04] we [153.46]
+[153.54] proceed? [154.08]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Me it licks
+
+[154.17] Me [154.63]
+[154.67] it [154.92]
+[155.0] licks [155.29]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Now it's up to Y-O-U
+
+[149.33] Now [149.58]
+[149.63] it's [149.83]
+[149.83] up [150.17]
+[150.21] to [150.54]
+[150.63] Y-O-U [151.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Are you the one
+
+[151.75] Are [151.96]
+[151.96] you [152.25]
+[152.25] the [152.38]
+[152.38] one [152.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: shall we proceed?
+
+[152.71] shall [153.0]
+[153.04] we [153.46]
+[153.54] proceed? [154.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Me it licks
+
+[154.17] Me [154.63]
+[154.67] it [154.92]
+[155.0] licks [155.29]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 155.42 
+EndTime: 163.5 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm so swag fish glad
+
+[155.88] I'm [156.08]
+[156.08] so [156.21]
+[156.21] swag [156.46]
+[156.46] fish [156.71]
+[156.75] glad [157.21]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: no one gave you this
+
+[157.25] no [157.46]
+[157.5] one [157.67]
+[157.67] gave [157.83]
+[157.88] you [158.08]
+[158.08] this [158.42]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: it's super sonic, bionic
+
+[158.5] it's [158.83]
+[158.88] super [159.25]
+[159.29] sonic, [159.75]
+[159.79] bionic [160.29]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: uranium hits so I break
+
+[160.33] uranium [161.29]
+[161.38] hits [161.71]
+[161.75] so [162.0]
+[162.0] I [162.04]
+[162.21] break [162.5]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: 'em off tricks
+
+[162.5] 'em [162.71]
+[162.71] off [162.96]
+[162.96] tricks [163.42]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: I'm so swag fish glad
+
+[155.88] I'm [156.08]
+[156.08] so [156.21]
+[156.21] swag [156.46]
+[156.46] fish [156.71]
+[156.75] glad [157.21]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: no one gave you this
+
+[157.25] no [157.46]
+[157.5] one [157.67]
+[157.67] gave [157.83]
+[157.88] you [158.08]
+[158.08] this [158.42]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: it's super sonic, bionic
+
+[158.5] it's [158.83]
+[158.88] super [159.25]
+[159.29] sonic, [159.75]
+[159.79] bionic [160.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: uranium hits so I break
+
+[160.33] uranium [161.29]
+[161.38] hits [161.71]
+[161.75] so [162.0]
+[162.0] I [162.04]
+[162.21] break [162.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: 'em off tricks
+
+[162.5] 'em [162.71]
+[162.71] off [162.96]
+[162.96] tricks [163.42]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 163.5 
+EndTime: 169.0 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Let's pray that it sticks
+
+[163.79] Let's [163.96]
+[163.96] pray [164.17]
+[164.17] that [164.33]
+[164.33] it [164.5]
+[164.67] sticks [165.29]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Imma say this once
+
+[165.33] Imma [165.79]
+[165.79] say [166.13]
+[166.17] this [166.42]
+[166.42] once [166.75]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: yeah I don't give a s**t
+
+[166.79] yeah [167.08]
+[167.13] I [167.17]
+[167.42] don't [167.58]
+[167.58] give [167.79]
+[167.79] a [167.96]
+[168.0] s**t [168.88]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Let's pray that it sticks
+
+[163.79] Let's [163.96]
+[163.96] pray [164.17]
+[164.17] that [164.33]
+[164.33] it [164.5]
+[164.67] sticks [165.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: Imma say this once
+
+[165.33] Imma [165.79]
+[165.79] say [166.13]
+[166.17] this [166.42]
+[166.42] once [166.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 2
+Line: yeah I don't give a s**t
+
+[166.79] yeah [167.08]
+[167.13] I [167.17]
+[167.42] don't [167.58]
+[167.58] give [167.79]
+[167.79] a [167.96]
+[168.0] s**t [168.88]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 169.0 
+EndTime: 174.79 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Don't play the
+
+[169.46] Don't [169.75]
+[169.75] play [170.08]
+[170.08] the [170.38]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[170.5] stupid [171.04]
+[171.13] game [171.5]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[171.54] 'cause [171.71]
+[171.71] I'm [171.92]
+[171.92] a [172.08]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[172.17] different [172.92]
+[172.96] kind [173.29]
+[173.38] of [173.58]
+[173.63] girl? [174.63]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Don't play the
+
+[169.46] Don't [169.75]
+[169.75] play [170.08]
+[170.08] the [170.38]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: stupid game
+
+[170.5] stupid [171.04]
+[171.13] game [171.5]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: 'cause I'm a
+
+[171.54] 'cause [171.71]
+[171.71] I'm [171.92]
+[171.92] a [172.08]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: different kind of girl?
+
+[172.17] different [172.92]
+[172.96] kind [173.29]
+[173.38] of [173.58]
+[173.63] girl? [174.63]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 174.79 
+EndTime: 181.33 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[175.88] Every [176.33]
+[176.33] record [177.0]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[177.13] sounds [177.46]
+[177.54] the [177.75]
+[177.75] same [178.17]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[178.17] you've [178.38]
+[178.42] got [178.58]
+[178.58] to [178.75]
+[178.79] step [179.17]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[179.17] into [179.71]
+[179.83] my [180.17]
+[180.21] world [181.13]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Every record
+
+[175.88] Every [176.33]
+[176.33] record [177.0]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: sounds the same
+
+[177.13] sounds [177.46]
+[177.54] the [177.75]
+[177.75] same [178.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: you've got to step
+
+[178.17] you've [178.38]
+[178.42] got [178.58]
+[178.58] to [178.75]
+[178.79] step [179.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: into my world
+
+[179.17] into [179.71]
+[179.83] my [180.17]
+[180.21] world [181.13]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 181.33 
+EndTime: 188.46 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[182.04] Give [182.25]
+[182.29] me [182.46]
+[182.5] all [182.67]
+[182.67] your [182.92]
+[182.92] love [183.29]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[183.33] and [183.71]
+[183.75] give [183.96]
+[183.96] me [184.17]
+[184.17] your [184.42]
+[184.42] love [184.96]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[185.38] L-U-V [187.33]
+[187.67] Madonna [188.38]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[182.04] Give [182.25]
+[182.29] me [182.46]
+[182.5] all [182.67]
+[182.67] your [182.92]
+[182.92] love [183.29]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[183.33] and [183.71]
+[183.75] give [183.96]
+[183.96] me [184.17]
+[184.17] your [184.42]
+[184.42] love [184.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: L-U-V Madonna
+
+[185.38] L-U-V [187.33]
+[187.67] Madonna [188.38]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 188.46 
+EndTime: 195.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[188.79] Give [188.96]
+[188.96] me [189.17]
+[189.17] all [189.29]
+[189.29] your [189.54]
+[189.54] love [189.96]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[189.96] and [190.38]
+[190.38] give [190.58]
+[190.63] me [190.83]
+[190.83] your [191.0]
+[191.04] love [191.54]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[192.04] Y-O-U [193.96]
+[194.33] You [194.54]
+[194.54] wanna [195.0]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[188.79] Give [188.96]
+[188.96] me [189.17]
+[189.17] all [189.29]
+[189.29] your [189.54]
+[189.54] love [189.96]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[189.96] and [190.38]
+[190.38] give [190.58]
+[190.63] me [190.83]
+[190.83] your [191.0]
+[191.04] love [191.54]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 1
+Line: Y-O-U You wanna
+
+[192.04] Y-O-U [193.96]
+[194.33] You [194.54]
+[194.54] wanna [195.0]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 195.13 
+EndTime: 201.33 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[195.38] Give [195.54]
+[195.58] me [195.75]
+[195.75] all [195.92]
+[195.96] your [196.17]
+[196.17] love [196.54]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[196.58] and [196.96]
+[197.04] give [197.21]
+[197.21] me [197.38]
+[197.38] your [197.63]
+[197.63] love [198.17]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[198.67] Give [198.92]
+[198.92] me [199.08]
+[199.08] all [199.25]
+[199.29] your [199.5]
+[199.5] love [199.88]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[199.92] today [201.08]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[195.38] Give [195.54]
+[195.58] me [195.75]
+[195.75] all [195.92]
+[195.96] your [196.17]
+[196.17] love [196.54]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[196.58] and [196.96]
+[197.04] give [197.21]
+[197.21] me [197.38]
+[197.38] your [197.63]
+[197.63] love [198.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[198.67] Give [198.92]
+[198.92] me [199.08]
+[199.08] all [199.25]
+[199.29] your [199.5]
+[199.5] love [199.88]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: today
+
+[199.92] today [201.08]
+
+
+
+********************LYRICS********************
+PageType: Lyrics
+StartTime: 201.33 
+EndTime: 211.13 
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[201.96] Give [202.17]
+[202.17] me [202.38]
+[202.38] all [202.54]
+[202.58] your [202.79]
+[202.79] love [203.17]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[203.21] and [203.58]
+[203.63] give [203.83]
+[203.83] me [204.04]
+[204.08] your [204.29]
+[204.29] love [204.75]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[205.08] let's [205.33]
+[205.33] forget [205.71]
+[205.71] about [206.08]
+[206.13] time [206.58]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[206.63] and [206.92]
+[207.0] dance [207.38]
+[207.38] our [207.63]
+
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[207.63] lives [208.13]
+[208.13] away [209.0]
+
+
+ 
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: Give me all your love
+
+[201.96] Give [202.17]
+[202.17] me [202.38]
+[202.38] all [202.54]
+[202.58] your [202.79]
+[202.79] love [203.17]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and give me your love
+
+[203.21] and [203.58]
+[203.63] give [203.83]
+[203.83] me [204.04]
+[204.08] your [204.29]
+[204.29] love [204.75]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: let's forget about time
+
+[205.08] let's [205.33]
+[205.33] forget [205.71]
+[205.71] about [206.08]
+[206.13] time [206.58]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: and dance our
+
+[206.63] and [206.92]
+[207.0] dance [207.38]
+[207.38] our [207.63]
+
+
+>>>>>>>NEW LINE>>>>>>>
+
+Voice: 0
+Line: lives away
+
+[207.63] lives [208.13]
+[208.13] away [209.0]
+
+
+
+********************TITLE********************
+PageType: Title
+StartTime: 211.13 
+EndTime: 220.63 
